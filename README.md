@@ -15,7 +15,7 @@ $ tree
 * Ubuntu：
 ```sh
 apt install python-is-python3 -y
-wget --no-check-certificate -O kcptun.sh https://github.com/kuoruan/shell-scripts/raw/master/kcptun/kcptun.sh
+wget --no-check-certificate -O kcptun.sh https://raw.githubusercontent.com/kismetpro/shell-scripts/refs/heads/master/kcptun/kcptun.sh
 sh kcptun.sh
 ```
 
