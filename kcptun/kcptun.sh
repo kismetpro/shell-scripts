@@ -950,7 +950,7 @@ install_supervisor() {
 	else
 		(
 			set -x
-			pip install --upgrade supervisor
+			apt install -y python3-pip supervisor
 		)
 	fi
 
